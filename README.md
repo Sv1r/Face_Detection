@@ -1,2 +1,2 @@
-# Face_Detection
-Two similar codes on Python and C++ by using OpenCV
+# Face Detection
+Small project with face detection algorithm by using Python/C++ and OpenCV.
